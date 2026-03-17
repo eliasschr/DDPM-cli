@@ -424,7 +424,7 @@ Value: On / Off
 ### PxP
 **Set**
 
-Value: Off; PiP; PiP-Large; pbp-2h-fill;
+Value: Off; PiP; PiP-Large; pbp-2h-fill; pbp-2h-2674; pbp-2h-7426;
 
 ```bash
 /set -display=PxP -value=<example>
