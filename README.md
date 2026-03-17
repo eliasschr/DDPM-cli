@@ -1,5 +1,13 @@
 # Dell Display and Peripheral Manager 2.0 Command Line
 
+This Documentation st based on two gist's:
+
+https://gist.github.com/nebriv/cb934a3b702346c5988f2aba5ee39f0d
+https://gist.github.com/eliasschr/7889a0e988f3e5778a2de14ab4c83313
+
+Please use the issue feature incase an Updates messes the commands up (again). 
+Otherwise, have fun. 
+
 All available commands found in the CLI.
 
 The full command looks like this:
